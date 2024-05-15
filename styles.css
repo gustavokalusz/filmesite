@@ -23,7 +23,7 @@ body {
 .principal {
     background-image: url("img/background2.jpeg");
     background-repeat: no-repeat;
-    background-size:auto;
+    background-size:0dvw;
     align-items: center;
     text-align: center;
 }
